@@ -32,11 +32,11 @@ We have to make sure we have Maven installed, once installed, we can start clean
 
 ## The process
 
-Each Raw data dump should be in a folder named by the client, for example `EPR`</pre>
-or `HAUS COFFEE`
+Each Raw data dump should be in a folder named by the client, for example `EPR`.
+or `HAUS COFFEE`.
 
 We need the File name by upload date/time MMDDYYYY_HHMM (pref that format, but another will do) 
-The data cleaned with Google Refine in an AWS S3 bucket called something like `prowl-clean`
+The data cleaned with Google Refine in an AWS S3 bucket called something like `prowl-clean`.
 
 With this data we can connect S3 to AWS Glue.
 
