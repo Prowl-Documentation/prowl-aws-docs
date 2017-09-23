@@ -41,5 +41,8 @@ Each Raw data dump should be in a folder named by the client, for example `EPR` 
 We need the File name by upload date/time MMDDYYYY_HHMM (pref that format, but another will do) 
 The data cleaned with Google Refine in an AWS S3 bucket called something like `prowl-clean`.
 
-With this data we can connect S3 to AWS Glue.
+With this data we can connect S3 to AWS Glue. So now we know how the Data structure is setup like, the PoC is as follows in this chart
+
+
+![AWS](http://www.getprowl.com/assets/images/flower.png)
 
