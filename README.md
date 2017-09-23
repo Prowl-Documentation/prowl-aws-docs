@@ -8,7 +8,7 @@ QuickSight is from the AWS suite that is simply a tool to visually build ad-hoc 
 
 ## Vagrant 
 
-In the private Prowl repo's there are some VMWare Fusion license keys "add-ons" for Vagrant, worth about $70 a piece, still available if anyone involved in Prowl needs it, we will be using precompiled Gentoo boxes for most testing via Vagrant. https://gentoo.org/
+In the private Prowl repo's there are some VMWare Fusion license keys "add-ons" for Vagrant, worth about $70 a piece, still available if anyone involved in Prowl needs a key. We will be using precompiled Gentoo boxes for most testing via Vagrant. https://gentoo.org/
 
 You can access this box, that's maintained by myself (Montana) via 
 
