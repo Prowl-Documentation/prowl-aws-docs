@@ -26,4 +26,15 @@ Some of the Prowl team have talked about using OpenRefine, about cleansing our d
 
 We have to make sure we have Maven installed, once installed, we can start cleaning data -- and sending this data to AWS. The flowchart below, describes this process. This flowchart was created by Garrett Loh, Prowl's co-founder, and business development. 
 
-![Sylvia](http://www.getprowl.com/assets/images/flowchart.png)
+![AWS](http://www.getprowl.com/assets/images/flowchart.png)
+
+## The process
+
+Each Raw data dump should be in a folder named by the client, for example <pre>EPR</pre>
+or HAUS COFFEE</pre> 
+
+We need the File name by upload date/time MMDDYYYY_HHMM (pref that format, but another will do) 
+The data cleaned with Google Refine in an AWS S3 bucket called something like <pre>prowl-clean</pre>
+
+With this data we can connect S3 to AWS Glue.
+
