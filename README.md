@@ -22,7 +22,7 @@ If there is a port collision, I've already released a patch for this box, so por
 
 Some of the Prowl team have talked about using OpenRefine, about cleansing our data we receive in CSV form. Which as of now we have a whole lot. We had initially looked at CrowdFlower for this, but decided to see if we couldn't use something a bit more cost efficient, and open source. We would be using OpenRefine (2.5) which then was called Google Refine, the reason for this, is stability, along with an addon called "Conciliator". 
 
-## Conciliator 
+## Conciliator | AWS 
 
 We have to make sure we have Maven installed, once installed, we can start cleaning data -- and sending this data to AWS. The flowchart below, describes this process. This flowchart was created by Garrett Loh, Prowl's co-founder, and business development. 
 
