@@ -43,6 +43,5 @@ The data cleaned with Google Refine in an AWS S3 bucket called something like `p
 
 With this data we can connect S3 to AWS Glue. So now we know how the Data structure is setup like, the PoC is as follows in this chart
 
-
-<center>![AWS](http://www.getprowl.com/assets/images/flower.png)</center>
+![AWS](http://www.getprowl.com/assets/images/flower.png)
 
