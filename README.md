@@ -26,4 +26,4 @@ Some of the Prowl team have talked about using OpenRefine, about cleansing our d
 
 We have to make sure we have Maven installed, once installed, we can start cleaning data -- and sending this data to AWS. The flowchart below, describes this process. This flowchart was created by Garrett Loh, Prowl's co-founder, and business development. 
 
-
+![Sylvia](http://www.getprowl.com/assets/images/flowchart.png)
