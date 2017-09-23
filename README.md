@@ -18,7 +18,11 @@ You can access this box, that's maintained by myself (Montana) via
 <pre>vagrant up</pre>
 <pre>vagrant ssh</pre> 
 
-If there is a port collision, I've already released a patch for this box, so port collisions should be fixed.
+If there is a port collision, I've already released a patch for this box, so port collisions should be fixed, but in the case that there is run 
+
+<pre>vagrant halt</pre> 
+
+Then reenter those above commands. 
 
 ## OpenRefine with Conciliator 
 
